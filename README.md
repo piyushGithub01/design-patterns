@@ -18,3 +18,11 @@ facade pattern - provides a unified interface to a set of interfaces in a subsys
    
 template method pattern - defines the skeleton of an algorithm in a method, deferring some steps to subclass.
    Template Method lets subclass redefine certain steps of an algorithm without changing the algorithm's structure.
+   
+state pattern - allows an object to alter its behavior when its internal state changes. The object will appear to
+   change its class.
+   
+observer pattern - defines a one to many dependency between objects so that when one object changes state, all of 
+   its dependents are notified and updated automatically.
+   
+ 
